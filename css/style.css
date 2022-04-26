@@ -22,7 +22,35 @@ h1{
 }
 
 /* main */
+.container-descrizione{
+    width: 70%;
+    margin: auto;
+}
+.container-descrizione > p{
+    text-align: center;
+}
 .container{
     width: 70%;
     margin: auto;
+    margin-top: 30px;
+    color: white;
+}
+
+/* sezione per il team */
+.columns{
+    width: calc(100% / 3);
+    font-size: 13px;
+    float: left;
+    padding: 10px;
+}
+.card{
+    background-color: #100e17;
+}
+.card > div{
+    padding: 3px;
+}
+img{
+    width: 70px;
+    float: left;
+    padding-right: 7px;
 }
