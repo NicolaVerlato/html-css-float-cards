@@ -50,15 +50,22 @@ h1{
     padding: 3px 0;
 }
 img{
-    width: 70px;
+    width: 80px;
     float: left;
     padding-right: 7px;
 }
 .nome{
     font-weight: 700;
+    padding: 5px 0px;
 }
 a{
     color: #259fe0;
     text-decoration: none;
+}
+.mail{
+    padding: 5px 0;
+}
+.float-left{
+    float: left;
 }
 
